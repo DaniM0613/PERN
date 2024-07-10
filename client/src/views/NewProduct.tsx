@@ -63,7 +63,7 @@ export default function NewProduct() {
            type='number'
            className='mt-2 block w-full p-3 bg-gray-50'
            placeholder='Precio Producto. ej. 200, 300'
-           name='precio'
+           name='price'
          />
         </div>
          <input
